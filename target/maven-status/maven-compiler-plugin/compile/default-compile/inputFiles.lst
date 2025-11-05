@@ -1,0 +1,8 @@
+/workspace/src/main/java/com/example/productapi/ProductApiApplication.java
+/workspace/src/main/java/com/example/productapi/model/Product.java
+/workspace/src/main/java/com/example/productapi/repository/ProductRepository.java
+/workspace/src/main/java/com/example/productapi/service/ProductService.java
+/workspace/src/main/java/com/example/productapi/web/ProductController.java
+/workspace/src/main/java/com/example/productapi/web/ProductNotFoundException.java
+/workspace/src/main/java/com/example/productapi/web/ProductRequest.java
+/workspace/src/main/java/com/example/productapi/web/ProductResponse.java

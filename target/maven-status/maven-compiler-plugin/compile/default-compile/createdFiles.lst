@@ -1,0 +1,8 @@
+com/example/productapi/ProductApiApplication.class
+com/example/productapi/web/ProductRequest.class
+com/example/productapi/model/Product.class
+com/example/productapi/web/ProductNotFoundException.class
+com/example/productapi/web/ProductResponse.class
+com/example/productapi/web/ProductController.class
+com/example/productapi/repository/ProductRepository.class
+com/example/productapi/service/ProductService.class
